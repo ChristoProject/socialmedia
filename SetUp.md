@@ -1,5 +1,5 @@
 # Visione del progetto
-Lone Cyclist è una AI Social Media Agency interamente gestita utilizzando Agenti AI.
+Lone Cyclist è un AI-Native Social Media Operating System.
 Il suo dominio di azione riguarda Instagram e YouTube.
 Lone Cyclist è uno strumento a servzizio di chi vuole iniziare ad avere una presenza sulle piattaforme social
 e ha bisogno di un supporto tecnico e organizzativo.
